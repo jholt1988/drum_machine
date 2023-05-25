@@ -1,0 +1,10 @@
+#display{
+    width: auto;
+    justify-items: center;
+    background-color: var(--bs-green);
+    color: #fcfafa;
+    display: flex;
+    height: auto;
+    border-style:ridge;
+    border: 12px 12px 12px;
+}

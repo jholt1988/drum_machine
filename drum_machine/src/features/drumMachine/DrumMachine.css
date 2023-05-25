@@ -1,0 +1,15 @@
+
+.wrapper{
+    display: flex;
+   
+    margin-top: 8vh;
+}
+.pad-bank{
+    align-items: center;
+    max-width: 50%;
+}
+
+Row{
+  justify-items: center;
+}
+
